@@ -13,13 +13,11 @@ Shawna's impact extended beyond the initial program goals. She played a crucial 
 
 "Shawna brings great enthusiasm, problem solving and creativity. These capabilities combined with her drive to add value make Shawna a high performer in complex situations." - Manish Dasaur (Accenture North America Chief Data & Analytics Officer, Communications & Media)
 
-"Shawna,
+"I had the pleasure of working with Shawna while she was one the key memebers from Accenture / Avanade team leading the students from University of California at Irvine in the Capstone course. During the course, leaders AI / Data Analytics from industry team up with student to utilize AI in addressing some of society challenges. 
 
-As you know, I am the Office Managing Director of Southern California and have worked with you on the Data Science / Applied Intelligence Capstone Program at University of California, Irvine. You played a major role in working with the students, documenting the work and leading most of the effort. This program takes a lot of coordination and planning, and you did a great job. I appreciate that you are very active in supporting the Avanade and Accenture brand on LinkedIn and that you do it in a very professional and effective way.
+Shawna led a data exploration and model development for predicting diabetes for different demographics in the state and helped build research-based credential. 
 
-I was surprised to find out that you are not a Manager - based on all my interactions I thought you were a Manager!
-
-Shawna - thanks for all you do and have a great rest of the summer!" - Marty Hodgett (Accenture Southern California Managing Director) 
+Shawna led the team and did a great job - she is a true "Teacher at Heart" working well by helping and guiding the students vs. doing all the work and also "managed up" well when working with the professors. Thanks for the dedication, effort and then wonderful result. AI for  the Good!!" - Marty Hodgett (Accenture Southern California Managing Director) 
 
 "I worked with Shawna as a mentor at UCI Data Science Capstone project on Predicting Risk of Type II Diabetes in California with AI. I was impressed with her exceptional communication skill and her eagerness to assist students. She was dedicated to answering students' questions and provided insightful responses. Also, her mentorship and coordination skills have undoubtedly contributed to the success of the team, which resulted in the project being published. In addition to her professional expertise, she consistently exhibits a friendly, patient, and unwaveringly positive demeanor. I was honored to have this great opportunity to collaborate with Shawna." - Mei-Chi Chen (Accenture San Francisco Software Engineer)
 
